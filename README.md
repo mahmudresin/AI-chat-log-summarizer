@@ -88,4 +88,4 @@ AI: Another response from the AI assistant
 
 ## License
 
-MIT License
+Apache License 2.0
