@@ -21,7 +21,7 @@ No installation needed. Simply download the script and run it.
 
 ```bash
 # Clone or download this repository
-git clone https://github.com/yourusername/ai-chat-log-summarizer.git
+git clone https://github.com/mahmudresin/ai-chat-log-summarizer.git
 cd ai-chat-log-summarizer
 
 # Make the script executable (Linux/Mac)
